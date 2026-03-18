@@ -1,0 +1,30 @@
+# SE Copilot — Client URLs
+# ============================================================
+# Add one URL per line for your PROSPECT / CLIENT.
+# Lines starting with # are comments.
+# Clear and refill this file for each new prospect.
+#
+# GOOD URLs to add for a prospect:
+#   - Their company website / About page
+#   - Their engineering blog
+#   - Their LinkedIn company page (public view)
+#   - Job postings (good tech stack signals)
+#   - Recent press releases or news articles about them
+#   - Their GitHub org page (if public)
+#   - Their API docs (if they have a developer product)
+#   - G2 / Capterra profile (reveals pain points in reviews)
+#
+# TIPS:
+#   - Job postings are gold — "Senior SRE with OpenTelemetry
+#     experience" tells you exactly what stack they're building on
+#   - Engineering blog posts reveal what problems they're solving
+#   - LinkedIn company page shows recent hires and growth signals
+#
+# EXAMPLE (Acme Corp prospect):
+#   https://www.acmecorp.com/about
+#   https://engineering.acmecorp.com
+#   https://www.linkedin.com/company/acmecorp
+#   https://github.com/acmecorp
+# ============================================================
+
+# Test

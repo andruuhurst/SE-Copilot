@@ -1,0 +1,26 @@
+# SE Copilot — Product URLs
+# ============================================================
+# Add one URL per line. Lines starting with # are comments.
+# The tool will fetch each page and extract its text content.
+#
+# GOOD URLs to add:
+#   - Your product's main website / homepage
+#   - Your docs site (docs.yourcompany.com)
+#   - Your pricing page
+#   - Your integrations page
+#   - Blog posts about use cases or customer stories
+#   - Your API reference page
+#   - Release notes / changelog
+#
+# TIPS:
+#   - Prefer specific pages over homepages when possible
+#   - Public pages only (login-protected pages won't work)
+#   - Remove any URLs that are no longer relevant
+#
+# EXAMPLE:
+#   https://www.yourcompany.com
+#   https://docs.yourcompany.com/getting-started
+#   https://www.yourcompany.com/pricing
+#   https://www.yourcompany.com/integrations
+# ============================================================
+
