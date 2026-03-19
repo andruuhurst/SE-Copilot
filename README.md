@@ -1,4 +1,4 @@
-# SE Copilot 🚀
+# AE & SE Copilot 🚀
 ### Your AI-powered Sales Engineering assistant — runs locally, lives in Git.
 
 SE Copilot turns Claude into a personalized SE assistant. Set up your company's
